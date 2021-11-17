@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ternalele",
+    "description": "",
+    "home_page_url": "https://chryote.github.io/ecommerce",
+    "feed_url": "https://chryote.github.io/ecommerce/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fadhilah Azhar"
+    },
+    "items": [
+    ]
+}
